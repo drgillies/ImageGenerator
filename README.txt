@@ -1,5 +1,5 @@
-# ImageGenerator
-Python Image Generator 
+README.txt
+
 '''
 PROCESS:
 1. projectStart()
